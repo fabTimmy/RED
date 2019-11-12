@@ -1,0 +1,12 @@
+.msgArea {
+    background-color: transparent;
+    height: 30pt;
+    width: 100%;
+    text-align: center;
+    justify-items: center;
+    color: red;
+}
+a{
+    text-decoration: none;
+
+}
